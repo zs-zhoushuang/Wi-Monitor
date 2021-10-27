@@ -1,7 +1,7 @@
 # activity-segmentation-recognition
-WiFi-based human activity segmentation and recognition
+Wi-Monitor: Human Activity Monitoring Using Commodity Wi-Fi
 
-This is the test codes of WiSR.
+This is the test codes of Wi-Monitor.
 
 The test data and training model can be download in...
 
