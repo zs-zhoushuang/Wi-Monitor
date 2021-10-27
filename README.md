@@ -1,4 +1,3 @@
-# activity-segmentation-recognition
 Wi-Monitor: Human Activity Monitoring Using Commodity Wi-Fi
 
 This is the test codes of Wi-Monitor.
