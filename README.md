@@ -2,7 +2,7 @@ Wi-Monitor: Daily Activity Monitoring Using Commodity Wi-Fi
 
 This is the test codes of Wi-Monitor.
 
-The test data and training model can be download in...
+The test data and training model can be download in https://drive.google.com/file/d/14drEwDb2mm1JYAFgL2kmHB9Oazq6N0NT/view?usp=sharing
 
 Put the two folders: Params_basic_scenario, and TestData_basic_scenario into the basic_scenario folder, and you can run the test codes to show the performance under the basic scenario.
 
