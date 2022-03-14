@@ -11,3 +11,5 @@ Put the two folders: Params_cross_subject_scenario, and TestData_cross_subject_s
 Run the calculate_ave_acc.py and you can get the average performance under the basic scenario and the cross-subject scenario, respectively.
 
 Put the two folders: Params_cross_environment_scenario, and TestData_cross_environment_scenario into the cross_environment_scenario folder, and you can run the test code to show the performance under the cross-environment scenario.
+
+Run the calculate_crossEnvir_ave_acc.py and you can get the average performance under the cross_environment scenario.
