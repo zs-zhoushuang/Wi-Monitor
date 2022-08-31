@@ -13,7 +13,7 @@ Put the two folders: Params_cross_environment_scenario, and TestData_cross_envir
 Run the calculate_crossEnvir_ave_acc.py and you can get the average performance under the cross_environment scenario.
 
 
-Here are some challenges and solutions we faced during the combination of feature extraction network and Temporal Convolutional Network (TCN) to capture ACFs as distinguishing characteristics of continuous activities.
+Here are some challenges and solutions we face during the combination of feature extraction network and Temporal Convolutional Network (TCN) to capture ACFs as distinguishing characteristics of continuous activities.
 
 (1) How to extract activity features from the continuous activities as the input of TCN is a challenge. First of all, we note that extracting activity features from continuous activities as the input of TCN is indispensable. The reasons are as follows. On the one hand, if we directly input the CSI stream of continuous activities into TCN to capture ACFs, it is equivalent that the AFF sequence length of an activity is equal to the CSI package length of this activity, which will dramatically burden TCN to capture ACFs of this activity for monitoring. On the other hand, the data of one CSI package is too little to include sufficient human body information, which greatly increases the difficulty for TCN to predict the activity category of each package. Both of these aspects will dramatically degrade the performance of continuous activity monitoring. Thus, in our system, we extract activity features from the continuous activities first and input them into TCN to capture ACFs.
 
