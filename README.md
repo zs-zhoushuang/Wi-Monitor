@@ -1,4 +1,4 @@
-Wi-Monitor: Daily Activity Monitoring Using Commodity Wi-Fi submitted to IEEE Internet of Things Journal
+This repository contains the experiments done in the work: "Zhou S, Guo L, Lu Z, et al. [Wi-Monitor: Daily Activity Monitoring Using Commodity Wi-Fi](https://ieeexplore.ieee.org/abstract/document/9904823)[J]. IEEE Internet of Things Journal, 2022."
 
 The test data and training model can be download in https://drive.google.com/file/d/1rngGXwK7SB1LiB5dje1RtByFv21VMQIc/view?usp=sharing.
 
